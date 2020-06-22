@@ -8,7 +8,18 @@ This repository **Dist_pyPackage** is a python based package designed with a vis
   contains a generalized __*Distribution*__ class for calculating and visualizing various probability distributions.
 
 *gauss_dis.py :
-  contains a __*Gaussian*__ class that inherits the *Distribution* class and classifies for calculation and visualization of Gaussian Distributions.
+  contains a __*Gaussian*__ class that inherits the *Distribution* class and classifies for calculation and visualization of      Gaussian Distributions.
 
 *bino_dis.py :
-  contains a __*Binomial*__ class that inherits the *Distribution* class and classifies for calcultaion and visualization of Binomial Distributions.
+  contains a __*Binomial*__ class that inherits the *Distribution* class and classifies for calcultaion and visualization of     Binomial Distributions.
+  
+## Download using terminal:
+  
+You can also download this package directly to your terminal using **PyPi**:
+```
+pip install prob_dis
+
+```
+
+
+
